@@ -1,0 +1,11 @@
+uvicorn[standard]
+python-dotenv
+passlib
+fastapi
+starlette
+pydantic
+bcrypt
+pyjwt
+sqlalchemy
+alembic
+psycopg2-binary
