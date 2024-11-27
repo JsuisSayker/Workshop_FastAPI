@@ -40,3 +40,22 @@ sudo docker run hello-world
 ```
 
 For people that use another distribution, please refer to the [official documentation](https://docs.docker.com/engine/install/)
+
+## Install Docker Compose
+
+[Here is the link to install Docker Compose](https://docs.docker.com/compose/install/)
+
+Here is the command to install Docker Compose on Ubuntu
+
+```sh
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+```
+
+Verify that Docker Compose is installed correctly by running the version command.
+
+```sh
+docker compose --version
+```
+
+For people that use another distribution, please refer to the [official documentation](https://docs.docker.com/compose/install/)
